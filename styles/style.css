@@ -58,7 +58,7 @@
   max-width: 1440px;
   max-height: 757px;
   margin: 0 auto;
-  background: url(/images/cover.jpg) center/100%;
+  background: url(../images/cover.jpg) center/100%;
   position: relative;
   z-index: -1;
 }
@@ -228,15 +228,15 @@
 }
 
 .card_type_film {
-  background: url(/images/card-lot-01.jpg) no-repeat center/100%;
+  background: url(../images/card-lot-01.jpg) no-repeat center/100%;
 }
 
 .card_type_book {
-  background: url(/images/card-lot-02.jpg) no-repeat center/100%;
+  background: url(../images/card-lot-02.jpg) no-repeat center/100%;
 }
 
 .card_type_picture {
-  background: url(/images/card-lot-03.jpg) no-repeat center/100%;
+  background: url(../images/card-lot-03.jpg) no-repeat center/100%;
 }
 
 .lots__look-more-link {
